@@ -12,6 +12,7 @@ Predictive System: Develop a system to predict heart disease for new data input.
 
 # Technologies Used
 For this project, I will use the following libraries:
+
 `NumPy`: For numerical operations and array handling.
 
 `Pandas`: For data manipulation and analysis.
