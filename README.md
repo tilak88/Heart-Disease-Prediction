@@ -23,4 +23,5 @@ For this project, I will use the following libraries:
 
 # Acknowledgements
 Dataset sourced from Kaggle Heart Disease Dataset
+
 Inspiration and learning resources from machine learning communities
